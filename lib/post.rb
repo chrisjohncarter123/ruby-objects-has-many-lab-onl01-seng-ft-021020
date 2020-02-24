@@ -18,11 +18,11 @@ class Post
   end
   
   def author=(new_author)
-    @artist = new_artist
-    @artist_name = @artist.name
+    @author = new_author
+    @author_name = @author.name
   end
   
-  def artist_name
-    @artist_name
+  def author_name
+    @author_name
   end
 end
