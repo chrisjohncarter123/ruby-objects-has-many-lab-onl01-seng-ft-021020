@@ -27,10 +27,7 @@ class Artist
     add_song(new_song)
   end
   
-  
-  def songs
-    
-  end
+
   
 end
 
