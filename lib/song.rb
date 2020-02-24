@@ -26,8 +26,3 @@ class Song
     @artist_name
   end
 end
-
-adele = Artist.new("Adele")
-hello = Song.new("Hello")
-hello.artist = adele
-puts adele.songs
