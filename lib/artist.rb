@@ -28,6 +28,6 @@ class Artist
   end
   
 
-  
+   
 end
 
